@@ -1,0 +1,14 @@
+{
+    "name": "thesebas/mitm",
+    "require": {
+        "silex/silex": "^1.3",
+        "guzzlehttp/guzzle": "^6.2",
+        "monolog/monolog": "^1.19"
+    },
+    "authors": [
+        {
+            "name": "thesebas",
+            "email": "thesebas@thesebas.net"
+        }
+    ]
+}
